@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @issafaqiri
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning jvascript
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me eisafaqiri11@gmail.com
 
