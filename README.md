@@ -1,4 +1,4 @@
-### <div align="center">I'm Issa, a full-time mern-stack developer 👨‍💻  working remotely</div>  
+### <div align="center">I'm Issa, a full-time web developer 👨‍💻  working remotely</div>  
   
 
 - 🔭 I’m currently working on [Exchange App](https://github.com/issafaqiri/exchange-app)
