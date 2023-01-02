@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/D5P6Ytx/Black-Modern-Freelance-Designer-Twitter-Header.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/rbRCrDL/Eisa-Faqiri.png" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm issa, a web developer  👨‍💻 working remotely  🚀</div>  
