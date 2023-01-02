@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/rbRCrDL/Eisa-Faqiri.png" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm issa, a web developer  👨‍💻 working remotely  🚀</div>  
+### <div align="center">I'm Eisa, a web developer  👨‍💻 working remotely  🚀</div>  
   
 
 - 🔭 I’m currently working on [Exchange Rates Application](https://github.com/issafaqiri/exchange-app)  
