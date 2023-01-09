@@ -5,7 +5,7 @@
 ### <div align="center">I'm Eisa, a web developer  👨‍💻 working remotely  🚀</div>  
   
 
-- 🔭 I’m currently working on [Exchange Rates Application](https://github.com/issafaqiri/exchange-app)  
+- 🔭 I’m currently working on [Movie Application](https://github.com/eisafaqiri/Movie-App)  
   
 
 - 🌱 I’m currently learning Node.js  
