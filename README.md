@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/rbRCrDL/Eisa-Faqiri.png" align="center" style="width: 100%" />
+<img src="https://iili.io/HY83odX.md.png" alt="HY83odX.md.png" align="center" style="width: 100%" border="0">
 </div>  
 
 ### <div align="center">Welcome to my GitHub profile!</div>  
@@ -65,7 +65,7 @@ My goal is to constantly improve my abilities and push the boundaries of what is
 
 
 ## Connect with me  
-# I'm always open to discussing new opportunities and collaboration. Don't hesitate to reach out via my GitHub profile.
+I'm always open to discussing new opportunities and collaboration. Don't hesitate to reach out via my GitHub profile.
 <div align="center">
 <a href="https://linkedin.com/in/eisafaqiri" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
