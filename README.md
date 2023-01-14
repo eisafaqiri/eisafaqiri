@@ -2,8 +2,11 @@
 <img src="https://i.ibb.co/rbRCrDL/Eisa-Faqiri.png" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Eisa, a web developer  👨‍💻 working remotely  🚀</div>  
-  
+### <div align="center">Welcome to my GitHub profile!</div>  
+
+As a frontend developer with a passion for coding and new ideas, I enjoy creating visually stunning and user-friendly web experiences.
+
+My goal is to constantly improve my abilities and push the boundaries of what is possible with frontend development. I believe in writing clean, efficient and scalable code and I am always open to feedback and suggestions.
 
 - 🔭 I’m currently working on [Movie Application](https://github.com/eisafaqiri/Movie-App)  
   
@@ -62,6 +65,7 @@
 
 
 ## Connect with me  
+# I'm always open to discussing new opportunities and collaboration. Don't hesitate to reach out via my GitHub profile.
 <div align="center">
 <a href="https://linkedin.com/in/eisafaqiri" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -79,4 +83,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=issafaqiri&&style=flat-square" align="center" />
 </div>  
+Thank you for visiting!
 
