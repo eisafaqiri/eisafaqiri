@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://iili.io/HY83odX.md.png" alt="HY83odX.md.png" align="center" style="width: 100%" border="0">
+<img src="https://iili.io/HY83odX.md.png" alt="HY83odX.md.png" align="center" border="0">
 </div>  
 
 ### <div align="center">Welcome to my GitHub profile!</div>  
